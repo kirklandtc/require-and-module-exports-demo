@@ -12,3 +12,4 @@ function subtract(x, y) {
 
 
 //export the above functions here
+module.exports = {
